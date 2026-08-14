@@ -14,6 +14,16 @@ Questão ainda não decidida. A IA não deve preencher a lacuna automaticamente.
 ### DESCARTADO
 Ideia removida do projeto.
 
+## Terminologia canônica
+
+### Vínculo
+
+**Vínculo** é o termo oficial para a conexão entre um humano e um Ono usada para controlá-lo, conduzi-lo ou instruí-lo de maneira assertiva.
+
+O Vínculo depende de compatibilidade genética entre humano e Ono e influencia a sinergia e o desempenho da operação.
+
+Não utilizar **link** como sinônimo desse conceito em documentação, narrativa ou interface do jogo.
+
 ## Regras para IA
 
 1. Quando uma informação não existir nas fontes, responder **“Não definido nas fontes atuais”** ou **“Questão em aberto”**.
@@ -23,6 +33,7 @@ Ideia removida do projeto.
 5. Verdade objetiva do universo não é o mesmo que conhecimento da sociedade ou conhecimento do jogador.
 6. O autor humano é a autoridade final sobre promoção de uma ideia para cânone.
 7. Mistérios podem permanecer sem resposta deliberadamente.
+8. Usar a terminologia canônica definida neste documento ao atualizar outras fontes.
 
 ## Regra narrativa
 
