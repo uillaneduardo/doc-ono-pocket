@@ -2,9 +2,17 @@
 
 ## Princípio
 
-Onos modernos não possuem inteligência própria. Tarefas complexas exigem condução humana através do link.
+Onos modernos não possuem inteligência própria. Tarefas complexas exigem condução humana através do **Vínculo**.
 
 Eles podem executar comportamentos automáticos simples ou condicionados, mas não interpretar objetivos complexos de forma independente.
+
+## Vínculo
+
+**Vínculo** é o termo canônico para a conexão entre um humano e um Ono usada para controlá-lo, conduzi-lo ou instruí-lo de maneira assertiva.
+
+O Vínculo depende de compatibilidade genética. Quanto maior a compatibilidade entre operador e Ono, maior tende a ser a sinergia de operação.
+
+O termo **link** não deve ser utilizado para esse conceito na documentação, interface ou narrativa, salvo quando aparecer como referência técnica externa ou citação histórica específica.
 
 ## Operação direta
 
@@ -12,12 +20,12 @@ Quando o jogador controla diretamente seu Ono:
 
 - jogador fica ocupado;
 - Ono fica ocupado;
-- compatibilidade genética influencia a qualidade do link;
+- compatibilidade genética influencia a qualidade do Vínculo;
 - maior sinergia permite melhor desempenho.
 
 ## Operador contratado
 
-Outro humano geneticamente compatível pode operar o Ono.
+Outro humano geneticamente compatível pode operar o Ono por meio de um Vínculo.
 
 Isso libera o jogador para outra atividade, mas pode envolver:
 
